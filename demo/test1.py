@@ -7,4 +7,4 @@
 """
 __author__ = 'luoxs'
 def myprint(msg):
-    print(msg)
+    print(msg * 2)
